@@ -4,7 +4,8 @@ This is a draft of a simple interactive virtual trading assistant, called Breakf
 
 I used the Turtle library in Python for its design simplicity, and as this is supposed to be a draft, which can be implemented later.  
 
-My idea is to have a turtle object that moves on a straight line towards an objective (a line at the top of the screen), and once all the boxes (conditions) are ticked, the turtle reaches the line and the user is good to place the trade. If some conditions are not met, the turtle does not move, and the user cannot carry on.
+My idea is to have a turtle object that moves on a straight line towards an objective (a line at the top of the screen), and once all the boxes (conditions) are ticked, the turtle reaches the line and the user is good to place the trade. If some conditions are not met, the turtle does not move, and the user cannot carry on. 
+The checklist must be improved and updated. 
 
 **Methodology used:** 
 **Programming Language:** Python
